@@ -1,0 +1,14 @@
+[
+    {
+      "name": "ChowTown!",
+      "live": "https://secret-escarpment-10244.herokuapp.com/",
+      "git": "https://github.com/pepermz/Project2-Earth-FoodWebsite",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Trivia Game",
+      "live": "https://pepermz.github.io/Jose-Ramirez-Project-1-Trivia/",
+      "git": "https://github.com/pepermz/Jose-Ramirez-Project-1-Trivia",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
